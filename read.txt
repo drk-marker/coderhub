@@ -1,0 +1,10 @@
+1.npm init -y 生成package.json文件
+2.npm i koa 安装koa库
+3.创建src目录，main.js文件,以及按功能划分的各个文件夹
+4.npm i dotenv 这个库可以使env文件里内容直接放在process.env中
+5.npm i koa-bodyparser 获取JSON参数的时候进行数据解析
+6.npm i mysql2 插入数据需要连接数据库，中间通过mysql2驱动
+7.npm i jsonwebtoken jwt颁发签名
+8.npm i koa-multer  koa处理图像上传时使用的库
+9.npm i jimp  通过jimp库对上传图片文件做处理
+10.服务器部署 见PPT里云服务器
